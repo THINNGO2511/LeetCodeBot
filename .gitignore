@@ -1,0 +1,4 @@
+*.pem
+venv/
+bot.py
+.env
